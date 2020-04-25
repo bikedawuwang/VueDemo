@@ -1,6 +1,6 @@
 # vuedemo
 
-> 
+目前只是通过更换类名达到换肤作用，以后会考虑通过less函数 加入 localstorage 留存皮肤。
 
 ## Build Setup
 
